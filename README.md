@@ -15,6 +15,11 @@ http://blink1.thingm.com/
 
 Other
 
+This project was created using Visual Studio 2012 
+and the Lync2013 sdk which can be downloaded from here 
+
+http://www.microsoft.com/en-au/download/details.aspx?id=36824
+
 blynk
 
 Copyright (c) David Schwarz 2014
