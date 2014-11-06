@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Blynk- Lync Presence Light.exe" version="1.0.0.7" publicKeyToken="a4e8db53cb0d9951" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="blynk.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Blynk- Lync Presence Light" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Blynk- Lync Presence Light.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="Internet" Description="Default rights given to Internet applications" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Blink1.dll" size="7680">
+      <assemblyIdentity name="Blink1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YRxLl4dpEAyTyW0pltd8BiGbtShEwcqcyTTGwscXCM8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Blynk- Lync Presence Light.exe" size="755712">
+      <assemblyIdentity name="Blynk- Lync Presence Light" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>eIU9asTe6bJKe/OSbvASjPICPgYeVRuFFLQkuzu1QoQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Lync.Model.dll" size="413888">
+      <assemblyIdentity name="Microsoft.Lync.Model" version="15.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wNCF9mE9ciLFXVAvsRysJcJiEWreAwDF+e+g4kRKUtk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Office.Uc.dll" size="479400">
+      <assemblyIdentity name="Microsoft.Office.Uc" version="15.0.4603.1000" publicKeyToken="71E9BCE111E9429C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>AwaM4ZrZKTMlT4SEieClDpAnbzIhYHUFr2ksXWyHJlY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="blink1-lib.dll" size="92434">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>E45FYexl3oBSCSPbCx8wNA4UuqcUda6fVy8xNkZ5ziQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Blynk- Lync Presence Light.exe.config" size="1263">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WR9hOU0msC7PwjDP+Ov5P2EsmrLscV4Yc6OL8V+TxOc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="blynk.ico" size="171368">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7x8JZMtBEXkmyrx3REBtGm09rr/sakCKKRc0ytAmqj0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DU\dave" issuerKeyHash="ddc81607a9f4c7c0a99b3b1f019848dd9faaa585" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/dDS+HReK3VVVx2wPy9krlKjZFhU7V8pnEDhZnzyp7w=</DigestValue></Reference></SignedInfo><SignatureValue>EBpabRmeH4FbRtNibI+5CHd4TZBCBdu90MeNUefTXcuhwi32I/nG5dSIs5jb1PfCryRs7hcg0+2Ewdr8wJ9jzwvBGp2tUpC2irpypr8gJ8avNzXNMmjj/TvF0uPaqB/UM+Z+nS7dgxcUiAyY9ycXgA5wCpizLmvZiFi9TwkTT3Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>x75kd9hIf9L7UXP4M3gpqbCs29py5lCCf7D/spb40RtIoz1lkyfMT8UYEzmpv/iYqgks7Q2GdqpT9A66JRhWPXY8MQRewcNLND2GLhBu0AmP8NonUtwJoV80lFcjPYv5ehqFRPCpwy3SPyrVXiKa2mpd237tRTKqNLjPf0Jwz+U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bca7f27c66e1409c295fed545864a352ae642f3fb01d5755752b5e74f8d2d0fd" Description="" Url=""><as:assemblyIdentity name="Blynk- Lync Presence Light.exe" version="1.0.0.7" publicKeyToken="a4e8db53cb0d9951" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DU\dave</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>bnoT4QCl/EU5045/3nNJTjKxP7pZDcDQZ24n+eI/VV0=</DigestValue></Reference></SignedInfo><SignatureValue>fF+LfGxKq+zhYBgooF/KKdX0yWpIjdDjXtzFUZksmKLm9QvjIK5cHmwORD8UvYZ53oPDYjepOtusY70L3+vHjl5in3v8IE3mI3FItt3phSgSRmnn8DF6O/wSmtnsKB78E5HJ7XS2Rzs3GNdX3lh0yjF9DP/fiUCtIYh36+yEH80=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>x75kd9hIf9L7UXP4M3gpqbCs29py5lCCf7D/spb40RtIoz1lkyfMT8UYEzmpv/iYqgks7Q2GdqpT9A66JRhWPXY8MQRewcNLND2GLhBu0AmP8NonUtwJoV80lFcjPYv5ehqFRPCpwy3SPyrVXiKa2mpd237tRTKqNLjPf0Jwz+U=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBtTCCAR6gAwIBAgIQUhWkKmsUW6lL2LnZ+p1fAjANBgkqhkiG9w0BAQsFADAZMRcwFQYDVQQDHg4ARABVAFwAZABhAHYAZTAeFw0xNDEwMjkwMzE5MjBaFw0xNTEwMjkwOTE5MjBaMBkxFzAVBgNVBAMeDgBEAFUAXABkAGEAdgBlMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHvmR32Eh/0vtRc/gzeCmpsKzb2nLmUIJ/sP+ylvjRG0ijPWWTJ8xPxRgTOam/+JiqCSztDYZ2qlP0DrolGFY9djwxBF7Bw0s0PYYuEG7QCY/w2idS3AmhXzSUVyM9i/l6GoVE8KnDLdI/KtVeIpraal3bfu1FMqo0uM9/QnDP5QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAKFgkZkL8hDhiHLmisI+neL2WZceYzjCNBrzOAj6Jx8GRqYOKA2PyWoylWOCwQ37a6CUiOyBPuguVDDI7EVD+fVHUcncn9EQO1/0lXqn9GgIvugNvJqQDkWux2mT8GErZwPSX2eRZQIRFQh0Fwred2N/zl3EZAOW2sHuVL9pwqKu</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
