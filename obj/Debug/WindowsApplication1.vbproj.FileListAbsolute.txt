@@ -1,0 +1,4 @@
+C:\Users\dave\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\dave\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\dave\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\dave\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

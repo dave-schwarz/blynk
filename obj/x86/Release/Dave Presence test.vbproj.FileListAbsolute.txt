@@ -1,0 +1,38 @@
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Dave Presence test.exe.config
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\obj\x86\Release\Dave Presence test.vbprojResolveAssemblyReference.cache
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\obj\x86\Release\WindowsApplication1.form1.resources
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\obj\x86\Release\WindowsApplication1.Resources.resources
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\obj\x86\Release\Dave Presence test.vbproj.GenerateResource.Cache
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Dave Presence test.exe
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Dave Presence test.pdb
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Dave Presence test.xml
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Blink1.dll
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Microsoft.Lync.Model.dll
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Microsoft.Office.Uc.dll
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Blink1.pdb
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\bin\x86\Release\Microsoft.Lync.Model.xml
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\obj\x86\Release\Dave Presence test.exe
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\obj\x86\Release\Dave Presence test.xml
+\\staff-home-f.its.deakin.edu.au\dave\My Documents\Visual Studio 2012\Projects\Dave Presence test\Dave Presence test\obj\x86\Release\Dave Presence test.pdb
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\blink1-lib.dll
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Blync- Deakin Lync Presence.exe.config
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Blync- Deakin Lync Presence.exe.manifest
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Blync- Deakin Lync Presence.application
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Blync- Deakin Lync Presence.exe
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Blync- Deakin Lync Presence.pdb
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Blync- Deakin Lync Presence.xml
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Microsoft.Lync.Model.dll
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Microsoft.Office.Uc.dll
+C:\work\Dave Presence test\Dave Presence test\bin\x86\Release\Microsoft.Lync.Model.xml
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blynk._initial_Form.resources
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blynk.Resources.resources
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Dave Presence test.vbproj.GenerateResource.Cache
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blync- Deakin Lync Presence.exe.manifest
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blync- Deakin Lync Presence.application
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blync- Deakin Lync Presence.exe
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blync- Deakin Lync Presence.xml
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blync- Deakin Lync Presence.pdb
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Dave Presence test.vbprojResolveAssemblyReference.cache
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blynk.Blynk.resources
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blynk._frm_Help.resources
+C:\work\Dave Presence test\Dave Presence test\obj\x86\Release\Blync- Deakin Lync Presence.TrustInfo.xml
